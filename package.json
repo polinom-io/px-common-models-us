@@ -1,0 +1,15 @@
+{
+  "name": "@polinom-io/px-common-models-us",
+  "version": "0.0.1",
+  "description": "Common px models us",
+  "main": "dist/index.ts",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "mario-espinoza",
+  "license": "MIT",
+  "dependencies": {
+    "@polinom-io/px-common-models": "0.0.1"
+  }
+}
